@@ -1049,7 +1049,7 @@
 		</rdgGrp>
 	</app>
 	<app>
-		<rdgGrp n="['&lt;del&gt;alone&lt;del-inner rend=&quot;strikethrough&quot; xml:id=&quot;c57-0016__main__d4e3377&quot;&gt;\'', 'd&lt;/del-inner&gt; &lt;/del&gt;']">
+		<rdgGrp n="[&quot;&lt;del&gt;alone&lt;del&gt;'&quot;, 'd&lt;/del-inner&gt; &lt;/del&gt;']">
 			<rdg wit="fMS">&lt;del rend=&quot;strikethrough&quot; xml:id=&quot;c57-0016__main__d4e3375&quot;&gt;alone&lt;del-INNER rend=&quot;strikethrough&quot; xml:id=&quot;c57-0016__main__d4e3377&quot;&gt;'             d&lt;/del-INNER&gt; &lt;/del&gt; </rdg>
 		</rdgGrp>
 	</app>
@@ -1558,7 +1558,7 @@
 			<rdg wit="fThomas">enigmatic. &lt;p eID=&quot;novel1_letter4_chapter11_div4_div12_p4&quot;/&gt; &lt;p sID=&quot;novel1_letter4_chapter11_div4_div12_p5&quot;/&gt; &lt;pb xml:id=&quot;F1818_v2_060&quot; n=&quot;056&quot;/&gt;“A </rdg>
 			<rdg wit="f1831">enigmatic. &lt;p eID=&quot;novel1_letter4_chapter12_div4_div12_p4&quot;/&gt; &lt;p sID=&quot;novel1_letter4_chapter12_div4_div12_p5&quot;/&gt; “A </rdg>
 		</rdgGrp>
-		<rdgGrp n="['seemed', '', '&lt;del&gt;igmmatic&lt;/del&gt;', 'enigmatic', '', '.', '&lt;note&gt;o you pretty pecksie!&lt;/note&gt;', '', '', 'chap. 3', '', '&lt;del&gt;it was some time&lt;/del&gt;', '', '', 'a']">
+		<rdgGrp n="['seemed', '', '&lt;del&gt;igmmatic&lt;/del&gt;', 'enigmatic', '', '.', '&lt;note resp=&quot;#pbs&quot;&gt;o you pretty pecksie!&lt;/note&gt;', '', '', 'chap. 3', '', '&lt;del&gt;it was some time&lt;/del&gt;', '', '', 'a']">
 			<rdg wit="fMS">seemed &lt;lb n=&quot;c57-0017__main__17&quot;/&gt;&lt;mod sID=&quot;c57-0017__main__d4e3493&quot;/&gt; &lt;del rend=&quot;strikethrough&quot; xml:id=&quot;c57-0017__main__d4e3495&quot;&gt;igmmatic&lt;/del&gt; &lt;sga-add hand=&quot;#pbs&quot; place=&quot;superlinear&quot; sID=&quot;c57-0017__main__d4e3498&quot;/&gt;enigmatic &lt;sga-add eID=&quot;c57-0017__main__d4e3498&quot;/&gt;&lt;mod eID=&quot;c57-0017__main__d4e3493&quot;/&gt; . &lt;note resp=&quot;#pbs&quot;&gt;o you pretty Pecksie!&lt;/note&gt; &lt;lb n=&quot;c57-0018__main__1&quot;/&gt; &lt;milestone spanTo=&quot;#c57-0018.05&quot; unit=&quot;tei:head&quot;/&gt; &lt;longToken&gt;Chap. 3&lt;/longToken&gt; &lt;anchor xml:id=&quot;c57-0018.05&quot;/&gt;&lt;lb n=&quot;c57-0018__main__2&quot;/&gt;&lt;mod sID=&quot;c57-0018__main__d4e3521&quot;/&gt; &lt;del rend=&quot;strikethrough&quot; xml:id=&quot;c57-0018__main__d4e3523&quot;&gt;It was some time&lt;/del&gt; &lt;sga-add place=&quot;sublinear&quot; sID=&quot;c57-0018__main__d4e3526&quot;/&gt; &lt;metamark function=&quot;insert&quot;&gt;^&lt;/metamark&gt; &lt;sga-add eID=&quot;c57-0018__main__d4e3526&quot;/&gt;&lt;sga-add place=&quot;superlinear&quot; sID=&quot;c57-0018__main__d4e3532&quot;/&gt;A </rdg>
 		</rdgGrp>
 	</app>
@@ -1649,7 +1649,7 @@
 		</rdgGrp>
 	</app>
 	<app>
-		<rdgGrp n="['&lt;del&gt;and they suffered that evil in a very distressing degree.&lt;/del&gt;', 'they had appeared to me rich, because their possessions incomparably transcended mine, but i soon learnt, that many of these advantages were only &lt;del-inner&gt;p&lt;/del-inner&gt; apparent, since their delicate frame made them subject to a thousand wants of the existence of   which i was entirely ignorant.']">
+		<rdgGrp n="['&lt;del&gt;and they suffered that evil in a very distressing degree.&lt;/del&gt;', 'they had appeared to me rich, because their possessions incomparably transcended mine, but i soon learnt, that many of these advantages were only &lt;del&gt;p&lt;/del-inner&gt; apparent, since their delicate frame made them subject to a thousand wants of the existence of   which i was entirely ignorant.']">
 			<rdg wit="fThomas">&lt;del rend=&quot;strikethrough&quot;&gt;and they suffered that evil in a very distressing degree.&lt;/del&gt; &lt;add place=&quot;bottom_and_prev_page_bottom&quot;&gt;They had appeared to me rich, because their possessions incomparably transcended mine, but I soon learnt, that many of these advantages were only &lt;del-INNER&gt;p&lt;/del-INNER&gt; apparent, since their delicate frame made them subject to a thousand wants of the existence of &lt;pb n=&quot;56&quot;/&gt;  which I was entirely ignorant.&lt;/add&gt; </rdg>
 		</rdgGrp>
 		<rdgGrp n="['and', 'they', 'suffered', 'that', 'evil', 'in', 'a', 'very', 'distressing']">
@@ -2173,7 +2173,7 @@
 		<rdgGrp n="['', 'i   &lt;del&gt;found&lt;/del&gt;    discovered', '']">
 			<rdg wit="fMS">&lt;sga-add eID=&quot;c57-0018__main__d4e3742&quot;/&gt; &lt;longToken&gt;I  &lt;mod sID=&quot;c57-0018__main__d4e3746&quot;/&gt; &lt;del rend=&quot;strikethrough&quot; xml:id=&quot;c57-0018__main__d4e3748&quot;&gt;found&lt;/del&gt; &lt;sga-add place=&quot;sublinear&quot; sID=&quot;c57-0018__main__d4e3751&quot;/&gt; &lt;metamark function=&quot;insert&quot;&gt;^&lt;/metamark&gt; &lt;sga-add eID=&quot;c57-0018__main__d4e3751&quot;/&gt; &lt;sga-add place=&quot;superlinear&quot; sID=&quot;c57-0018__main__d4e3757&quot;/&gt;discovered&lt;sga-add eID=&quot;c57-0018__main__d4e3757&quot;/&gt;&lt;/longToken&gt; &lt;mod eID=&quot;c57-0018__main__d4e3746&quot;/&gt; </rdg>
 		</rdgGrp>
-		<rdgGrp n="['&lt;note&gt;thomas copy: pencil mark joins paragraphs.&lt;/note&gt; &quot;i discovered']">
+		<rdgGrp n="['&lt;note resp=&quot;#ebb&quot;&gt;thomas copy: pencil mark joins paragraphs.&lt;/note&gt; &quot;i discovered']">
 			<rdg wit="fThomas">&lt;longToken&gt;&lt;note resp=&quot;#ebb&quot;&gt;Thomas copy: pencil mark joins paragraphs.&lt;/note&gt; “I discovered&lt;/longToken&gt; </rdg>
 		</rdgGrp>
 		<rdgGrp n="['&lt;p-end/&gt;', '&lt;p-start/&gt;', '&quot;i', 'discovered']">
@@ -4835,7 +4835,7 @@
 		</rdgGrp>
 	</app>
 	<app>
-		<rdgGrp n="['', '&lt;del&gt; &lt;del-inner rend=&quot;strikethrough&quot; xml:id=&quot;c57-0022__main__d4e4682&quot;&gt;\'', 'outhouse&lt;/del-inner&gt; &lt;/del&gt;', '', '', '', '', 'outhouse', 'where']">
+		<rdgGrp n="['', &quot;&lt;del&gt; &lt;del&gt;'&quot;, 'outhouse&lt;/del-inner&gt; &lt;/del&gt;', '', '', '', '', 'outhouse', 'where']">
 			<rdg wit="fMS">&lt;mod sID=&quot;c57-0022__main__d4e4678&quot;/&gt; &lt;del rend=&quot;overwritten&quot; xml:id=&quot;c57-0022__main__d4e4680&quot;&gt; &lt;del-INNER rend=&quot;strikethrough&quot; xml:id=&quot;c57-0022__main__d4e4682&quot;&gt;'             outhouse&lt;/del-INNER&gt; &lt;/del&gt; &lt;sga-add place=&quot;intralinear&quot; sID=&quot;c57-0022__main__d4e4686&quot;/&gt; &lt;metamark function=&quot;displacement&quot; xml:id=&quot;c57-0022.05&quot;&gt;X&lt;/metamark&gt; &lt;lb n=&quot;c57-0022__left_margin__1&quot;/&gt; &lt;metamark function=&quot;displacement&quot;&gt;X&lt;/metamark&gt; &lt;lb n=&quot;c57-0022__left_margin__2&quot;/&gt;outhouse &lt;lb n=&quot;c57-0022__left_margin__3&quot;/&gt;where </rdg>
 		</rdgGrp>
 		<rdgGrp n="['out-house,', 'where,']">
@@ -5295,7 +5295,7 @@
 			<rdg wit="fThomas">before </rdg>
 			<rdg wit="f1831">before </rdg>
 		</rdgGrp>
-		<rdgGrp n="['bfore', '&lt;note&gt;printer error: misses the andquot;eandquot; in before.&lt;/note&gt;']">
+		<rdgGrp n="['bfore', '&lt;note resp=&quot;fv-team-ebb&quot;&gt;printer error: misses the andquot;eandquot; in before.&lt;/note&gt;']">
 			<rdg wit="f1823">bfore &lt;note resp=&quot;FV-Team-ebb&quot;&gt;printer error: misses the &amp;quot;e&amp;quot; in before.&lt;/note&gt; </rdg>
 		</rdgGrp>
 	</app>
@@ -5345,4 +5345,4 @@
 		</rdgGrp>
 	</app>
 </cx:apparatus>
-<!-- 2023-08-09 05:40:22.472496 -->
+<!-- 2023-08-11 16:36:06.630493 -->
